@@ -7253,7 +7253,10 @@ textarea.form-control-lg {
 .lh-1 {
   line-height: 1 !important;
 }
-
+.showcase{
+  min-height: 400px;
+  background-image: url('C:\Users\user\Desktop\learn\IT\my-portfolio\images\Untitled_design_(7).png') no-repeat;
+}
 .lh-sm {
   line-height: 1.25 !important;
 }
